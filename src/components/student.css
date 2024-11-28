@@ -1,0 +1,26 @@
+/* School.css */
+.school-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f4f4f9;
+  }
+  
+  .header-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .form-card, .table {
+    margin: 20px 0;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .btn {
+    margin: 5px;
+  }
+  
